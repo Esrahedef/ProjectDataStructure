@@ -18,5 +18,18 @@ public class TestMinHeap {
                 System.out.println("Removing " + minHeap.removeMin());
         }
 }
+/*OUTPUT:
+The heap is not empty; it contains 6 entries.
+The smallest entry is 2
+
+
+Removing entries in ascending order:
+Removing 2
+Removing 10
+Removing 14
+Removing 15
+Removing 20
+Removing 21
+ */
 
 
