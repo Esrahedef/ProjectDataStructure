@@ -21,4 +21,17 @@ public class TestMaxHeap {
             System.out.println("Removing " + maxHeap.removeMax());
     }
 }
+/*OUTPUT:
+The heap is not empty; it contains 6 entries.
+The biggest entry is 21
+
+
+Removing entries in ascending order:
+Removing 21
+Removing 20
+Removing 15
+Removing 14
+Removing 10
+Removing 2
+ */
 
